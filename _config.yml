@@ -1,0 +1,29 @@
+name: ec
+favicon: null
+layout_spectrum: 0.25032264995388687
+typography_spectrum: 0.32082511158660054
+title: EC TESTING SITE
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3413029594812542
+  lightness: 0.5425663280766457
+  saturation: 0.2348841151688248
+  rhythmicContrast: 0.08684967271983624
+purpose: []
