@@ -2,7 +2,6 @@ name: ec
 favicon: null
 layout_spectrum: 0.25032264995388687
 typography_spectrum: 0.32082511158660054
-title: EC TESTING SITE
 cta:
   domain: null
   bucket: null
@@ -17,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#e6f0f1'
-    - '#81a1d0'
-    - '#576474'
-    - '#ad4000'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
   brandStrength: 0.3413029594812542
   lightness: 0.5425663280766457
   saturation: 0.2348841151688248
